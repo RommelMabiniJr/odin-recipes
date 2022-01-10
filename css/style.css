@@ -1,0 +1,32 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #fefae0;
+}
+
+.container {   
+    text-align: center;
+}
+
+.h-title {
+    color: #283618;
+    font-size: 50px;
+}
+
+.mini-h {
+    color: #bc6c25;
+    font-size: 30px;
+}
+
+.food-lst {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+p, li, .food-lst{
+    color: #606c38;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
